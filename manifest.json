@@ -21,6 +21,7 @@
     "minimum_chrome_version":"18",
     "web_accessible_resources":[
         "manifest.json",
+		"ptl/test.js",
         "extensions/widgets/UploadButton.js",
         "extensions/widgets/UploadField.js",
         "extensions/ui/AddScriptView.js",
